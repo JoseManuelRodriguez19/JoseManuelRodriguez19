@@ -1,30 +1,30 @@
 # José Manuel Rodríguez
 **IT Support & Systems Specialist · Software Engineer in Training**
 
-[LinkedIn](https://linkedin.com/in/[TU_LINKEDIN]) · [Email](mailto:[TU_CORREO@EMAIL.COM]) · [LeetCode](https://leetcode.com/[TU_USUARIO_LEETCODE]) · [GitHub](https://github.com/JoseManuelRodriguez19)
+[LinkedIn]([https://linkedin.com/in/[TU_LINKEDIN]](https://www.linkedin.com/in/rodriguez-reyes-jose-manuel)) · [Email](mailto:rodriguez.reyes.josemanuel15@gmail.com) · [GitHub](https://github.com/JoseManuelRodriguez19)
+
+---
+# Hi there, I'm José Manuel 👋
+
+**Computer Systems Engineering Student (Summer 2028) | Software Engineer Intern Candidate**
+
+I combine a strong foundation in low-level hardware architecture with modern full-stack web development. Currently, I work as a freelance software engineer building scalable, strictly type-safe platforms.
+
+### 👨‍💻 About Me
+- 🎓 Studying B.S. in Computer Systems Engineering.
+- 💻 Building secure, high-performance web portals with **TypeScript, Next.js, and Supabase** (consistently achieving 98-100 Lighthouse scores).
+- ⚙️ Deeply interested in algorithmic efficiency, Object-Oriented Programming (OOP), and CI/CD pipelines.
+- 
+
+### 🛠 Tech Stack
+*   **Languages:** Java, Python, TypeScript, JavaScript, SQL, C++, C#, x86 Assembly
+*   **Frontend & Backend:** Next.js, Node.js, RESTful APIs, MVC Architecture
+*   **Database & Cloud:** Supabase, Vercel, MySQL, Microsoft Azure
+*   **Core Concepts:** Data Structures & Algorithms, Cryptography, CI/CD, SDLC
 
 ---
 
-## Overview
-
-IT Specialist transitioning into Software Engineering. Focused on core computer science fundamentals: computer architecture, low-level systems, algorithms, and full-stack development.
-
-* **Systems & Architecture:** Building a computer from logic gates to OS (*Nand2Tetris*).
-* **Algorithms & Data Structures:** Solving problem sets in TypeScript (*NeetCode 150*) and Java (*Princeton Algorithms*).
-* **Full-Stack Development:** Modern web architecture via *Full Stack Open*.
-
----
-
-## Technical Stack
-
-* **Languages & Web:** TypeScript, JavaScript, Java, C#, Python, SQL, HTML5, CSS3
-* **Systems & Logic:** Linux, Bash/Shell, HDL (Hardware Description Language)
-* **Databases & Cloud:** SQL Server, MySQL, Microsoft Azure
-* **Tools & IDEs:** Git, GitHub, VS Code, IntelliJ IDEA
-
----
-
-## Active Curriculum & Readings
+## Active Readings
 
 * 📖 **The Elements of Computing Systems** — *Noam Nisan & Shimon Schocken*
 * 📖 **Algorithms, 4th Edition** — *Robert Sedgewick & Kevin Wayne*
@@ -39,6 +39,4 @@ IT Specialist transitioning into Software Engineering. Focused on core computer 
 
 ---
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseManuelRodriguez19&show_icons=true&theme=dark&hide_border=true&count_private=true)
