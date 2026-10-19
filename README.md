@@ -33,9 +33,9 @@ I combine a strong foundation in low-level hardware architecture with modern ful
 
 ## Core Repositories
 * **[PoliAsesor](https://github.com/JoseManuelRodriguez19/PoliAsesor.git)** — Full-stack educational networking platform to connect students for academic tutoring, applying MVC architecture.
-* **[NeetCode-150-TS](.../algorithmic-problems-ts)** — Data Structures, Big-O Analysis & Problem Solving in TypeScript. *(In Progress)*
-* **[Nand2Tetris-Architecture](.../Nand2Tetris)** — Logic Gates, ALU, CPU, Memory & OS Architecture. *(Active)*
-* **[Algorithms-Princeton](.../Algorithms1_PrincetonU)** — Classical Algorithms & Data Structures implementations in Java. *(Active)*
+* **[NeetCode-150-TS](https://github.com/JoseManuelRodriguez19/algorithmic-problems-ts.git)** — Data Structures, Big-O Analysis & Problem Solving in TypeScript. *(In Progress)*
+* **[Nand2Tetris-Architecture](https://github.com/JoseManuelRodriguez19/Nand2Tetris.git)** — Logic Gates, ALU, CPU, Memory & OS Architecture. *(Active)*
+* **[Algorithms-Princeton](https://github.com/JoseManuelRodriguez19/Algorithms1_PrincetonU.git)** — Classical Algorithms & Data Structures implementations in Java. *(Active)*
 
   
 
