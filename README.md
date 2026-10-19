@@ -1,7 +1,7 @@
 # José Manuel Rodríguez
 **IT Support & Systems Specialist · Software Engineer in Training**
 
-[LinkedIn]([https://linkedin.com/in/[TU_LINKEDIN]](https://www.linkedin.com/in/rodriguez-reyes-jose-manuel)) · [Email](mailto:rodriguez.reyes.josemanuel15@gmail.com) · [GitHub](https://github.com/JoseManuelRodriguez19)
+[LinkedIn](https://www.linkedin.com/in/rodriguez-reyes-jose-manuel) · [Email](mailto:rodriguez.reyes.josemanuel15@gmail.com) · [GitHub](https://github.com/JoseManuelRodriguez19)
 
 ---
 # Hi there, I'm José Manuel 👋
@@ -32,10 +32,12 @@ I combine a strong foundation in low-level hardware architecture with modern ful
 ---
 
 ## Core Repositories
+* **[PoliAsesor](./PoliAsesor)** — Full-stack educational networking platform to connect students for academic tutoring, applying MVC architecture.
+* **[NeetCode-150-TS](./algorithmic-problems-ts)** — Data Structures, Big-O Analysis & Problem Solving in TypeScript. *(In Progress)*
+* **[Nand2Tetris-Architecture](./Nand2Tetris)** — Logic Gates, ALU, CPU, Memory & OS Architecture. *(Active)*
+* **[Algorithms-Princeton](./Algorithms1_PrincetonU)** — Classical Algorithms & Data Structures implementations in Java. *(Active)*
 
-* **[NeetCode-150-TS](./)** — Data Structures, Big-O Analysis & Problem Solving in TypeScript. *(In Progress)*
-* **[Nand2Tetris-Architecture](./)** — Logic Gates, ALU, CPU, Memory & OS Architecture. *(Active)*
-* **[Algorithms-Princeton](./)** — Classical Algorithms & Data Structures implementations in Java. *(Active)*
+  
 
 ---
 
