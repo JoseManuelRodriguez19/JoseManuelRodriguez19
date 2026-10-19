@@ -32,7 +32,7 @@ I combine a strong foundation in low-level hardware architecture with modern ful
 ---
 
 ## Core Repositories
-* **[PoliAsesor](.../PoliAsesor)** — Full-stack educational networking platform to connect students for academic tutoring, applying MVC architecture.
+* **[PoliAsesor](././PoliAsesor)** — Full-stack educational networking platform to connect students for academic tutoring, applying MVC architecture.
 * **[NeetCode-150-TS](.../algorithmic-problems-ts)** — Data Structures, Big-O Analysis & Problem Solving in TypeScript. *(In Progress)*
 * **[Nand2Tetris-Architecture](.../Nand2Tetris)** — Logic Gates, ALU, CPU, Memory & OS Architecture. *(Active)*
 * **[Algorithms-Princeton](.../Algorithms1_PrincetonU)** — Classical Algorithms & Data Structures implementations in Java. *(Active)*
